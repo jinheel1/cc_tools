@@ -1,6 +1,7 @@
-import test_data
 import sys
-import json
+
+import test_data
+
 
 #Creates and returns a GameLibrary object(defined in test_data) from loaded json_data
 def make_game_library_from_json(json_data):
