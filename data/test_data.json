@@ -1,0 +1,25 @@
+{
+  "game 1":
+    {"platform":
+        {"launch year": 1989,
+          "name": "AtariLynx"},
+      "title":"Chip's Challenge",
+      "year":1989
+    },
+
+    "game 2":
+      {"platform":
+          {"launch year": 2003,
+            "name": "Steam"},
+        "title":"Chip's Challenge 2",
+        "year":1989
+      },
+
+    "game 3":
+      {"platform":
+          {"launch year": 2016,
+            "name": "Steam"},
+        "title":"Chip's Challenge 3",
+        "year":2017
+      }
+}
