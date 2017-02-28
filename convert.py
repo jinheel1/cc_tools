@@ -1,5 +1,7 @@
-from cc_dat_utils import make_cc_data_from_dat
+import cc_dat_utils
+import cc_json_utils
+import cc_data
 
-output_data = make_cc_data_from_dat("data/pfgd_test.dat")
+output_data = cc_json_utils.make_cc_data_from_json("data/jinheel1_cc1.json")
 
 print(output_data)
