@@ -14,6 +14,7 @@ def make_optional_fields_from_json(json_optional_fields):
     Returns:
         A list of all the constructed optional fields
     """
+
     cc_fields = []
 
     for json_field in json_optional_fields:
